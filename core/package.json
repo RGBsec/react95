@@ -1,0 +1,34 @@
+{
+  "name": "@react95/core",
+  "version": "2.10.3",
+  "description": "Windows 95 styleguide",
+  "main": "./index.js",
+  "repository": "git@github.com:React95/React95.git",
+  "contributors": [
+    "Allysson dos Santos <aallysson0@gmail.com>",
+    "Gabriel Daltoso <ggdaltoso@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@react95/icons": "^0.3.0",
+    "@styled-system/prop-types": "^5.1.5",
+    "@testing-library/react-hooks": "^3.2.1",
+    "@xstyled/styled-components": "^1.17.1",
+    "icojs": "^0.14.0",
+    "prop-types": "^15.7.2",
+    "react-draggable": "^4.3.1",
+    "react-virtualized": "^9.21.2",
+    "styled-system": "^5.1.5"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "directory": "dist"
+  },
+  "gitHead": "5a0cedfc1cd9bfb0b1decc3fccc8a658641c6dc5",
+  "private": false
+}
